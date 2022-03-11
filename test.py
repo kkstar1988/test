@@ -6,7 +6,6 @@ import os
 import datetime as dt
 from datetime import timedelta
 
-import matplotlib.pyplot as plt
 
 '''
 # Stocks Summary
