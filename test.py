@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 
 import os
-import akshare as ak
 import yfinance as yf
 import datetime as dt
 from datetime import timedelta
